@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Gauri Kate AI Developer Banner">
-</p>
 # Hey! I'm Gauri Kate | Welcome to My Digital Space! 👩‍💻
 
 <h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Generative AI Learner</h3>
