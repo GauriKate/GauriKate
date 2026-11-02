@@ -1,4 +1,4 @@
-# Hi there, I'm Gauri! 👋
+# Hey! I'm Gauri Kate | Welcome to My Digital Space! 👩‍💻
 
 <h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Generative AI Learner</h3>
 
@@ -15,3 +15,18 @@
 - 🤖 Exploring Artificial Intelligence and Generative AI
 - 🌱 Continuously learning and building practical projects
 - 💡 Passionate about turning ideas into useful applications
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,flask,git,github,vscode,aws,gcp,tensorflow,pytorch" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-20B2AA?style=for-the-badge" />
+</p>
