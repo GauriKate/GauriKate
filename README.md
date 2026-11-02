@@ -1,3 +1,6 @@
+<table width="100%" bgcolor="#100B25">
+<tr>
+<td align="center">
 # Hey! I'm Gauri Kate | Welcome to My Digital Space! 👩‍💻
 
 <h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Generative AI Learner</h3>
@@ -31,3 +34,7 @@
   <img src="https://img.shields.io/badge/Generative%20AI-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-20B2AA?style=for-the-badge" />
 </p>
+
+</td>
+</tr>
+</table>
