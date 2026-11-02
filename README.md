@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:100B25,50:35145C,100:8A5CF6&height=220&section=header&text=GAURI%20KATE&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58&descSize=16"
+    width="100%"
+    alt="Gauri Kate animated purple header"
+  />
+</p>
+
 # Hey! I'm Gauri Kate | Welcome to My Digital Space! 👩‍💻
 
 <h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Generative AI Learner</h3>
