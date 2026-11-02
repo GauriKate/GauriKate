@@ -21,7 +21,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,flask,git,github,vscode,aws,gcp,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,flask,github,vscode,aws,tensorflow,pytorch" />
 </p>
 
 <p align="center">
